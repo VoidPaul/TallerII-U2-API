@@ -1,0 +1,23 @@
+{
+  "name": "codevitae-api",
+  "version": "1.0.0",
+  "description": "CodeVitae: Un sitio portafolio donde están todos mis proyectos a vista del ojo público :D ",
+  "keywords": [
+    "blog"
+  ],
+  "homepage": "https://github.com/VoidPaul/TallerII-U2-React#readme",
+  "bugs": {
+    "url": "https://github.com/VoidPaul/TallerII-U2-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoidPaul/TallerII-U2-React.git"
+  },
+  "license": "MIT",
+  "author": "Paulo Giovanni Alvarez Ramos",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
